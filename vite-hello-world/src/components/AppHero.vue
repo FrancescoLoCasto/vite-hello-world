@@ -6,7 +6,7 @@
 
    <section>
       <div>
-         <img src="" alt="">
+         <img src="https://pbs.twimg.com/media/DIYJPGiUMAIKnTu.jpg" alt="">
       </div>
    </section>
 
